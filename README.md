@@ -1,4 +1,4 @@
-### Hi there 👋
+# Ideal is the beacon, without which there is no firm direction. 👋
 
 <!--
 **772010988qqr/772010988qqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
